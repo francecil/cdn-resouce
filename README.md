@@ -4,8 +4,8 @@
 
 规则名: `https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径`
 
-版本号我们始终不传（会默认使用最新版本），如果需要更新同名文件的话，文件名上带版本号。
+版本号我们始终不传，始终默认使用最新版本
 
-那么对于本仓库文件来说，规则是：`https://cdn.jsdelivr.net/gh/francecil/cdn/文件路径`
+那么对于本仓库文件来说，规则是：`https://cdn.jsdelivr.net/gh/francecil/cdn-resouce/文件路径`
 
-比如：[https://cdn.jsdelivr.net/gh/francecil/cdn/js/hello.js](https://cdn.jsdelivr.net/gh/francecil/cdn/js/hello.js)
+比如：[https://cdn.jsdelivr.net/gh/francecil/cdn-resouce/js/hello.js](https://cdn.jsdelivr.net/gh/francecil/cdn-resouce/js/hello.js)
