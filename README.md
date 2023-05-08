@@ -7,7 +7,7 @@ CDN 地址规则: `https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@�
 - gh 表示 github 仓库类型
 
 示例：
-对于仓库的 `/js/hello.js` 文件，其 CDN 地址为 [https://cdn.jsdelivr.net/gh/francecil-public/cdn-resouce/js/hello.js](https://cdn.jsdelivr.net/gh/francecil-public/cdn-resouce/js/hello.js)
+对于仓库的 `/js/hello.js` 文件，其 CDN 地址为 [https://cdn.jsdelivr.net/gh/francecil/cdn-resouce/js/hello.js](https://cdn.jsdelivr.net/gh/francecil/cdn-resouce/js/hello.js)
 
 # 可视化服务
 
